@@ -2,4 +2,4 @@
 
 My daily development kit looks like this.
 
-![DeveloperKit](https://i.ibb.co/CpGZFBy/Artboard-1.png)
+![DeveloperKit](https://i.ibb.co/KXKrz8C/bg.png)
