@@ -18,6 +18,7 @@ My daily development kit looks like this.
 
 ![DeveloperKit](https://i.ibb.co/KXKrz8C/bg.png)
 
+<div style="width: 100%; display: flex; flex-direction: row; justify-content: space-between;">
 ![Anchieta's github stats](https://github-readme-stats.vercel.app/api?username=anchietajunior&show_icons=true&theme=gruvbox)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anchietajunior&layout=compact)](https://github.com/anchietajunior/github-readme-stats)
+</div>
