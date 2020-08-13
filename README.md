@@ -22,5 +22,5 @@ My daily development kit looks like this.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anchietajunior&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchietajunior&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchietajunior&layout=compact&theme=gruvbox" />
 </a>
