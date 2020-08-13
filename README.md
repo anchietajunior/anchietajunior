@@ -1,4 +1,4 @@
-### Hi, i'm Anchieta Júnior 👋
+## Hi, i'm Anchieta Júnior 👋
 
 🖥️ Ruby developer at [Checkplant](https://www.checkplant.com.br/)
 <br />
@@ -6,7 +6,7 @@
 <br />
 🇧🇷 Living in Londrina, Brazil
 
-### Find me.
+## Find me.
 
 🚀 [Site](https://www.anchietajunior.com/)
 <br />
