@@ -6,7 +6,7 @@
 <br />
 🇧🇷 Living in Londrina, Brazil
 
-### Find me
+### Find me.
 
 🚀 [Site](https://www.anchietajunior.com/)
 <br />
@@ -14,9 +14,11 @@
 <br />
 💼 [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
 
-My daily development kit looks like this.
+## Daily development kit.
 
 ![DeveloperKit](https://i.ibb.co/KXKrz8C/bg.png)
+
+## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anchietajunior&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=contribs" />
