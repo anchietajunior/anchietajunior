@@ -17,3 +17,5 @@
 My daily development kit looks like this.
 
 ![DeveloperKit](https://i.ibb.co/KXKrz8C/bg.png)
+
+![Anchieta's github stats](https://github-readme-stats.vercel.app/api?username=anchietajunior&show_icons=true&theme=gruvbox)
