@@ -1,8 +1,6 @@
 ## Hi, i'm Anchieta Júnior 👋
 
-🖥️ Ruby developer at [Checkplant](https://www.checkplant.com.br/)
-<br />
-🇧🇷 Born in Paulo Afonso, Brazil
+🖥️ Ruby developer at [Impulso Network](https://impulso.network/)
 <br />
 🇧🇷 Living in Londrina, Brazil
 
