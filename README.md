@@ -11,7 +11,3 @@
 🐦 [Twitter](https://twitter.com/anchietajnr)
 <br />
 💼 [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
-
-## Daily development kit.
-
-![DeveloperKit](https://i.ibb.co/KXKrz8C/bg.png)
