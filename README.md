@@ -1,6 +1,6 @@
 ## Hi, i'm Anchieta Júnior 👋
 
-🖥️ Software Enginner at @institutopadrepio
+🖥️ Software Engineer at @institutopadrepio
 <br />
 🇧🇷 Living in Londrina, Brazil
 
