@@ -1,6 +1,6 @@
 ## Hi, i'm Anchieta Júnior 👋
 
-🖥️ Ruby developer at @institutopadrepio
+🖥️ Software Enginner at @institutopadrepio
 <br />
 🇧🇷 Living in Londrina, Brazil
 
