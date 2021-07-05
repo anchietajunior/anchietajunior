@@ -8,13 +8,15 @@
 
 I've been writing code for fun or to pay my bills since 2009 and I'm an enthusiast about design patterns and easy-to-understand code.
 
-- ***Technologies i worked with some years ago:*** ActionScript3, PHP, Java, MySQL and others.
+- ***Technologies i worked with:*** ActionScript3, PHP, Java, MySQL and others.
 
-- ***My current stack since 2015:*** Ruby, Rails, Sinatra, PostgreSQL, Redis, Sidekiq, RSpec and Javascript.
+- ***My current stack since 2015:*** Ruby, Rails, Sinatra, PostgreSQL, Redis, Sidekiq, RSpec, RabbitMQ Docker and Javascript.
 
-- ***Things I'm studying righ now:*** Elixir and Lua.
+- ***Things I'm studying right now:*** React, Elixir, Lua and AWS.
 
 - ***Text editors:*** I use VSCode, but my passion is Neovim.
+
+- ***Platforms:*** Heroku and Digital Ocean
 
 That's it.
 
