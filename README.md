@@ -1,8 +1,8 @@
 ## Hi, welcome to my github 👋
 
-🖥️  Ruby Software Engineer
+🖥️ &nbsp; Ruby Software Engineer
 <br />
-🇧🇷  Living in Paulo Afonso, Brazil
+🇧🇷 &nbsp; Living in Paulo Afonso, Brazil
 
 ## About me.
 
@@ -20,8 +20,8 @@ That's it.
 
 ## Find me.
 
-🚀  [Site](https://www.anchietajunior.com/)
+🚀 &nbsp; [Site](https://www.anchietajunior.com/)
 <br />
-🐦  [Twitter](https://twitter.com/anchietajnr)
+🐦 &nbsp; [Twitter](https://twitter.com/janchietajunior)
 <br />
-💼  [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
+💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
