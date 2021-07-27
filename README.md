@@ -27,3 +27,8 @@ That's it.
 🐦 &nbsp; [Twitter](https://twitter.com/janchietajunior)
 <br />
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
+📋 &nbsp; [Hashnode](https://hashnode.com/@anchietajunior)
+
+## Last Posts
+
+- [Neovim basics for Ruby and Rails development with LSP, NERDTree, Telescope and more.](https://anchietajunior.hashnode.dev/neovim-for-ruby-with-lsp-nerdtree-telescope)
