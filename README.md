@@ -27,6 +27,7 @@ That's it.
 🐦 &nbsp; [Twitter](https://twitter.com/janchietajunior)
 <br />
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
+<br />
 📋 &nbsp; [Hashnode](https://hashnode.com/@anchietajunior)
 
 ## Last Posts
