@@ -1,6 +1,6 @@
 ## Hi, welcome to my github 👋
 
-🖥️ &nbsp; Ruby Software Engineer
+🖥️ &nbsp; Ruby Software Engineer and consultant
 <br />
 🇧🇷 &nbsp; Living in Paulo Afonso, Brazil
 
