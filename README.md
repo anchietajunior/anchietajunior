@@ -24,7 +24,7 @@ That's it.
 
 🚀 &nbsp; [Site](https://www.anchietajunior.com/)
 <br />
-🐦 &nbsp; [Twitter](https://twitter.com/janchietajunior)
+🐦 &nbsp; [Twitter](https://twitter.com/anchietajunioor)
 <br />
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
 <br />
