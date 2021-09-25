@@ -32,5 +32,7 @@ That's it.
 
 ## Last Posts
 
+- [Refactoring my Ruby on Rails front-end with ViewComponent](https://anchietajunior.hashnode.dev/refactoring-my-ruby-on-rails-front-end-with-viewcomponent)
+- [Setup Rails testing stack with RSpec, Database Cleaner, FactoryBot, Shoulda Matchers and VCR](https://anchietajunior.hashnode.dev/setup-rails-testing-stack-with-rspec-database-cleaner-factorybot-shoulda-matchers-and-vcr-cksqgysen0kjwwps1736sdo4e)
 - [Neovim LSP commands, LSP Saga configuration and functionalities](https://anchietajunior.hashnode.dev/neovim-lsp-commands-lsp-saga-configuration-and-functionalities)
 - [Neovim basics for Ruby and Rails development with LSP, NERDTree, Telescope and more.](https://anchietajunior.hashnode.dev/neovim-for-ruby-with-lsp-nerdtree-telescope)
