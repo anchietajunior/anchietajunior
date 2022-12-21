@@ -1,38 +1,19 @@
-## Hi, welcome to my github 👋
+<h1 align="center">Hi 👋, I'm José Anchieta</h1>
+<h3 align="center">Senior Software Engineer who works with Ruby (most of the time), Javascript and Rust.</h3>
 
-🖥️ &nbsp; Ruby Software Engineer and consultant
-<br />
-🇧🇷 &nbsp; Living in Paulo Afonso, Brazil
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## About me.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/anchietajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anchietajunior" height="30" width="40" /></a>
+<a href="https://twitter.com/anchietajunioor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anchietajunioor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anchietajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchietajunior" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anchietajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anchietajunior" height="30" width="40" /></a>
+</p>
 
-I've been writing code for fun or to pay my bills since 2009 and I'm an enthusiast about design patterns and easy-to-understand code.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-- ***Technologies i worked with:*** ActionScript3, PHP, Java, MySQL and others.
-
-- ***My current stack since 2015:*** Ruby, Rails, Sinatra, PostgreSQL, Redis, Sidekiq, RSpec, RabbitMQ Docker and Javascript.
-
-- ***Things I'm studying right now:*** React, Elixir, Lua and AWS.
-
-- ***Text editors:*** I use VSCode, but my passion is Neovim.
-
-- ***Platforms:*** Heroku and Digital Ocean
-
-That's it.
-
-## Find me.
-
-🚀 &nbsp; [Site](https://www.anchietajunior.com/)
-<br />
-🐦 &nbsp; [Twitter](https://twitter.com/anchietajunioor)
-<br />
-💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/anchietajunior/)
-<br />
-📋 &nbsp; [Hashnode](https://hashnode.com/@anchietajunior)
-
-## Last Posts
-
-- [Refactoring my Ruby on Rails front-end with ViewComponent](https://anchietajunior.hashnode.dev/refactoring-my-ruby-on-rails-front-end-with-viewcomponent)
-- [Setup Rails testing stack with RSpec, Database Cleaner, FactoryBot, Shoulda Matchers and VCR](https://anchietajunior.hashnode.dev/setup-rails-testing-stack-with-rspec-database-cleaner-factorybot-shoulda-matchers-and-vcr-cksqgysen0kjwwps1736sdo4e)
-- [Neovim LSP commands, LSP Saga configuration and functionalities](https://anchietajunior.hashnode.dev/neovim-lsp-commands-lsp-saga-configuration-and-functionalities)
-- [Neovim basics for Ruby and Rails development with LSP, NERDTree, Telescope and more.](https://anchietajunior.hashnode.dev/neovim-for-ruby-with-lsp-nerdtree-telescope)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchietajunior&show_icons=true&locale=en&layout=compact" alt="anchietajunior" /></p>
