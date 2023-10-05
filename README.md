@@ -3,8 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ruby on Rails Pessimistic Locking](https://dev.to/anchietajunior/ruby-on-rails-pessimistic-locking-with-withlock-opj)
-- [Download a CSV file from Heroku using Rails console](https://dev.to/anchietajunior/download-a-csv-file-from-heroku-using-rails-console-72j)
+- [Ruby on Rails Pessimistic Locking](https://dev.to/joseanchieta/ruby-on-rails-pessimistic-locking-with-withlock-opj)
+- [Download a CSV file from Heroku using Rails console](https://dev.to/joseanchieta/download-a-csv-file-from-heroku-using-rails-console-72j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
