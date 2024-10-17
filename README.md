@@ -2,7 +2,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Criando iOS apps utilizando Rails e Turbo](https://joseanchieta.dev/creating-turbo-native-apps)
 - [Easy Queue implementation in Ruby](https://dev.to/joseanchieta/easy-queue-implementation-in-ruby-2f6c)
 - [Ruby on Rails Pessimistic Locking](https://dev.to/joseanchieta/ruby-on-rails-pessimistic-locking-with-withlock-opj)
 - [Download a CSV file from Heroku using Rails console](https://dev.to/joseanchieta/download-a-csv-file-from-heroku-using-rails-console-72j)
