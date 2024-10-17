@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm José Anchieta</h1>
-<h3 align="center">I am a code writer and problem solver from Brazil.</h3>
+![Header](./github-header-image.png)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
